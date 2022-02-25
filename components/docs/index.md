@@ -1,3 +1,0 @@
-## Lit Stuff
-
-Ohai!
