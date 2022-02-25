@@ -1,0 +1,8 @@
+{
+    "scripts": {
+        "package": "gulp build"
+    },
+    "dependencies": {
+        "lit": "2.2.0"
+    }
+}
