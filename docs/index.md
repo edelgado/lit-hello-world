@@ -1,3 +1,3 @@
 ## Lit Stuff
 
-Ohai!
+Ohai! Theme unset
